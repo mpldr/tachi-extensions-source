@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repo is just here so Kakao [sues me as well](https://fosstodon.org/@mpldr/111742732598109171) if they take legal actions. If you actually want the extensions, get them from the original source!
+
 ### Please give the repo a :star:
 
 | Build | Support Server |
